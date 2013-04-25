@@ -16,7 +16,7 @@
   "author": "Ryan Ramage",
   "license": "BSD",
   "dependencies": {
-    "couchr": "0.0.13"
+    "couchr": ">=0.0.12"
   },
   "devDependencies": {
     "requiremock": "~1.3.3"
